@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salman Burhan</h1>
-<h4 align="center">Aspiring Software Engineer<h4>
-<h3 align="center">Computer Science Senior<br />at California State University San Marcos.</h3>
+<h4 align="center">Aspiring Software Engineer</h4>
+<h3 align="center">Computer Science Senior at California State University San Marcos.</h3>
 
 # 💫 About Me:
 📫 How to reach me: salmanfburhan@gmail.com<br>😄 Pronouns: he/him/his

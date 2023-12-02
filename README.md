@@ -33,7 +33,7 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=SalmanBurhan&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=SalmanBurhan&theme=github-dark-dimmed&hide_border=true&mode=weekly&background=00000000)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmanBurhan&hide_progress=false&theme=github_dark_dimmed&bg_color=00000000&hide_border=true&include_all_commits=truec&ount_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmanBurhan&hide_progress=false&theme=github_dark_dimmed&bg_color=00000000&hide_border=true&include_all_commits=true&layout=compact&size_weight=0.5&count_weight=0.5&hide=Jupyter%20Notebook&exclude_repo=cs311-sorting-algorithms-project)
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=SalmanBurhan&theme=default&hide_border=false) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmanBurhan&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->

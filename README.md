@@ -3,6 +3,17 @@
 <h3 align="center">B.S. in Computer Science from California State University San Marcos.</h3>
 
 # 💫 About Me:
+
+Hello! I'm Salman, an aspiring software engineer whose love for coding began in elementary school. My coding journey started with my first "Hello World" program in Objective-C back in 2014, and since then, there's been no looking back. I remember being thrilled to receive a Python book one Christmas, marking the start of a lifelong passion. My expertise primarily lies in Swift and Python, the languages that are closest to my heart.
+
+My experience spans a variety of projects, each offering its unique challenges. From developing iOS applications like [MyBMWKit](http://www.github.com/SalmanBurhan/bimmer-connected-swift)​​, [parkCSUSM](https://github.com/SalmanBurhan/park-csusm)​​, and [cougAR](https://github.com/SalmanBurhan/csusm-augmented-reality-app) with AR technology​​, to creating a web application for banking statement aggregation in Java​​, and automating university study room booking using Python​​, my portfolio is a testament to my diverse skill set and commitment to learning.
+
+When I'm not deeply engrossed in coding, I'm usually exploring new horizons in technology. I have a keen interest in IoT and dream of creating a truly smart home. I'm particularly fascinated by the potential of Swift in mobile app development and the versatile applications of Python.
+
+I specialize in developing mobile applications using Swift, a skill I've been strengthening since 2017, following my earlier work with Objective-C since 2014. I'm also passionate about IoT, often experimenting with transforming the simplest of devices into smart ones, with a dream of having a truly "connected" home.
+
+I'm excited about the opportunity to bring my skills in Swift, Python, and my broad software engineering expertise to innovative and challenging roles. My goal is to continuously evolve as an engineer and contribute to impactful projects in the Software Engineering discipline of Computer Science.
+
 📫 How to reach me: salmanfburhan@gmail.com<br>😄 Pronouns: he/him/his
 
 
